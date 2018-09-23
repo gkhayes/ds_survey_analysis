@@ -17,7 +17,7 @@ All analysis is contained in the Jupyter notebook DS Survey Analysis.ipynb.
 To run this code, it is first necessary to download the 2018 Stack Overflow Develop Survey dataset from <https://insights.stackoverflow.com/survey>. The folder containing this data (developer_survey_2018) should then be saved in the current working directory in a folder named "Data".
 
 ## Results
-The main findings of this analysis are summarised in a blog post available here (insert link).
+The main findings of this analysis are summarised in a blog post available [here](https://medium.com/@gkhayes/what-does-a-data-scientist-really-look-like-eab503edb1bb).
 
 ## Licensing, Authors, Acknowledgements
 The dataset used in this analysis was created by Stack Overflow and made available for download under the Open Database License (ODbL).
